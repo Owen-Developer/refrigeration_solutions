@@ -1123,7 +1123,11 @@ li.des-point {
         gap: 40px;
     }
     .video-left {
+        order: 1;
         width: 100%;
+    }
+    .video-holder {
+        order: 2;
     }
     .video-para {
         width: 100%;
@@ -1308,5 +1312,11 @@ li.des-point {
 
     .video-container {
         margin-top: 80px;
+    }
+    .video-title {
+        font-size: 32px;
+    }
+    .btn-video {
+        font-size: 16px;
     }
 }
