@@ -1126,8 +1126,14 @@ li.des-point {
         order: 1;
         width: 100%;
     }
-    .video-holder {
+    .video-img {
         order: 2;
+        margin: 15px 0 !important;
+        width: 100%;
+        height: auto !important;
+    }
+    .video-holder {
+        order: 3;
     }
     .video-para {
         width: 100%;
